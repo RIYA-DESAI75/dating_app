@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074079423860",
+    "project_id": "tinderclone-bc291",
+    "storage_bucket": "tinderclone-bc291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074079423860:android:001c09aae9256b9298e021",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMCdmKdQfSS0Nw6lDKPHgo8W2xxBIByA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
